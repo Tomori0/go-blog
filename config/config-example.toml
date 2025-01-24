@@ -1,0 +1,21 @@
+[viewer]
+    Title       = "Hello World!"
+    Description = "This is my first blog web application project for learning golang."
+    Logo        = "/resource/images/logo.png"
+    Navigation  = ["Index", "/", "Golang", "/golang", "Archive", "/pigeonhole", "About", "/about"]
+    Bilibili    = ""
+    Zhihu       = ""
+    Avatar      = ""
+    UserName    = "zleng"
+    UserDesc    = "A nice person"
+
+[system]
+    AppName         = "golang blog zleng"
+    Version         = "v1.0.0"
+    CdnURL          = ""
+    QiniuAccessKey  = "Your qiniu access key"
+    QiniuSecretKey  = "Your qiniu secret key"
+    Valine          = true
+    ValineAppid     = ""
+    ValineAppkey    = ""
+    ValineServerURL = ""
